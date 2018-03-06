@@ -13,5 +13,5 @@ Direction 2: Créer une image de trajectoire d'attracteur (par exemple, l'attrac
 
 Les outils Bioinformatiques suggérés pour créer cette oeuvre d'art: R-ggplot2, Python
 Données:
-https://xenabrowser.net/datapages/ 
+https://xenabrowser.net/datapages/?cohort=TCGA%20TARGET%20GTEx
 Datasets> GA4GH (TOIL) hub > TCGA-GTEX-TARGET
