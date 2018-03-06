@@ -12,3 +12,6 @@ Direction 1: S'inspirant de Art of Pi et des "number walks", créer des "chemins
 Direction 2: Créer une image de trajectoire d'attracteur (par exemple, l'attracteur de Clifford) ayant pour coordonnés d'attracteurs des valeurs d'expression géniques. Assembler chaque image en une carte d'attracteurs, montrant la complexité de tumeur en tumeur.
 
 Les outils Bioinformatiques suggérés pour créer cette oeuvre d'art: R-ggplot2, Python
+Données:
+https://xenabrowser.net/datapages/ 
+Datasets> GA4GH (TOIL) hub > TCGA-GTEX-TARGET
